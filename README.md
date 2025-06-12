@@ -1,4 +1,4 @@
-## A Vite + React-based Application
+## A Vite + React-based Application <pre>                     TODOS: FIX STYLING INDEED! </pre>
 ><ins>commands:</ins>
 `npm install`      |
 `npm start`        |
